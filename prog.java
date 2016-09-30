@@ -5,4 +5,10 @@ public class prog{
         System.out.print("essa parte fui adicionado indevidamente");
         System.exit();
 	}
+
+
+
+	public string Teste(){
+		return "teste";
+	}
 }
