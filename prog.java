@@ -9,6 +9,6 @@ public class prog{
 
 
 	public string Teste(){
-		return "teste";
+		return "teste novo";
 	}
 }
